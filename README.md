@@ -1,16 +1,16 @@
 # Area Wise Diseases Analysis Using Machine Learning
 This project aims to analyze and visualize disease patterns across different geographical areas using machine learning techniques.
  with a focus on real-world data gathered from hospitals in Bihar, India
-## Features##
+## Features
  
  
-##Frontend##
+## Frontend
 A user-friendly interface built with HTML, CSS, and Bootstrap.
 A form that allows users to input the area, disease, and year for prediction.
 Display of prediction results, including the number of affected people, estimated rate, and tailored recommendations.
 Visualization of disease cases over the years using interactive charts.
 
-##Backend:##
+## Backend:
 Developed using Flask to handle data processing and integrate machine learning models.
 RESTful APIs enable seamless communication between the frontend and backend.
 Data management using Pandas for preprocessing, cleaning, and analysis.
@@ -19,8 +19,8 @@ Data Gathering and Cleaning:
 
 Real data was gathered from various hospitals in Bihar.
 The data underwent thorough cleaning and preprocessing to ensure accuracy and reliability for machine learning modeling.
-##Machine Learning:##
 
+## Machine Learning:
 -Data preprocessing, feature selection, and training were performed using Scikit-learn.
 The model predicts disease trends based on historical data, providing insights into future outbreaks.
 Database:
