@@ -29,12 +29,20 @@ MongoDB was used for efficient storage and management of large datasets, allowin
 Data Visualization:
 
 Disease patterns and predictions are visualized using Matplotlib and Seaborn, offering clear insights into the data and predictions.
-Technologies Used
-Frontend: HTML, CSS, JavaScript, Bootstrap
-Backend: Python, Flask
-Machine Learning: Pandas, Scikit-learn
-Database: MongoDB
-Data Visualization: Matplotlib, Seaborn
+
+## Technologies Used
+
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap
+- **Backend:** Python, Flask
+- **Machine Learning:** Pandas, Scikit-learn
+- **Database:** MongoDB
+- **Data Visualization:** Matplotlib, Seaborn
+
+## How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/area-wise-diseases-analysis.git
 ![image](https://github.com/user-attachments/assets/930ea623-0a4a-468b-919c-19b5e870dfe3)
 ![image](https://github.com/user-attachments/assets/839c0d17-1c97-42ba-80bc-bf34aa5f3bd7)
 ![image](https://github.com/user-attachments/assets/1ccb101e-69e8-4076-8623-a2c21287bf38)
